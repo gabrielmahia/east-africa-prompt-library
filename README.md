@@ -1,6 +1,6 @@
 # East Africa Prompt Library
 
-> **The first curated AI prompt library for East African civic tech, fintech, and social infrastructure.**
+> Curated AI prompt library for East African civic tech, fintech, and social infrastructure — tested prompts for Swahili contexts, Kenya institutional APIs, and community coordination.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![NSA MCP Compliant](https://img.shields.io/badge/NSA%20CSI%20U%2FOO%2F6030316--26-MCP%20Security%20Compliant-blue)](https://www.nsa.gov/Portals/75/documents/Cybersecurity/CSI_MCP_SECURITY.pdf)
