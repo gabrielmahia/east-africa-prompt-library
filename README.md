@@ -3,7 +3,7 @@
 > Curated AI prompt library for East African civic tech, fintech, and social infrastructure — tested prompts for Swahili contexts, Kenya institutional APIs, and community coordination.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![NSA MCP Compliant](https://img.shields.io/badge/NSA%20CSI%20U%2FOO%2F6030316--26-MCP%20Security%20Compliant-blue)](https://www.nsa.gov/Portals/75/documents/Cybersecurity/CSI_MCP_SECURITY.pdf)
+
 [![Part of East African Decision Infrastructure](https://img.shields.io/badge/Portfolio-East%20African%20Decision%20Infrastructure-orange)](https://gabrielmahia.github.io)
 
 A structured prompt library adapted for East African contexts — Kenya, East Africa, and underrepresented communities — organized by domain and following the **General → Formula → Specific** pattern.
